@@ -1,0 +1,11 @@
+{
+  "name": "NeoPlayer",
+  "short_name": "NeoPlayer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050807",
+  "theme_color": "#0b3d2e",
+  "icons": [
+    {"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
